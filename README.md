@@ -12,10 +12,14 @@ Para cualquiera que quiera preparar un Android TV Box para un familiar o amigo s
  
 ## Requisitos
  
-- Android TV Box con Android 9 o superior
-- Aplicación [Downloader](https://play.google.com/store/apps/details?id=com.esaban.downloader) instalada desde Play Store (necesaria para la primera instalación)
+- Cualquier dispositivo Android TV, Google TV, Fire TV o televisor con Android 9 o superior integrado.
+- Aplicación [Downloader](https://play.google.com/store/apps/details?id=com.esaban.downloader) instalada desde Play Store (necesaria para la primera instalación).
 ## Instalación
  
-1. Instala Downloader desde Play Store en el TV Box
-2. Abre Downloader e introduce la URL de la última versión disponible en [Releases](../../releases)
-3. Instala y abre la aplicación
+1. Instala Downloader desde Play Store en el televisor.
+2. Abre Downloader e introduce la URL de la última versión disponible en [Releases](../../releases).
+3. Instala y abre la aplicación.
+
+# DISCLAIMER #
+
+**Esta aplicación no proporciona material ilícito ni apoya la piratería. Es meramente una aplicación para recoger aplicaciones de uso principal y no contiene juegos, roms, isos ni permite el acceso a películas o series de forma ilegal. Solamente recoge e instala las aplicaciones, pero la configuración posterior queda bajo la responsabilidad del usuario.**
