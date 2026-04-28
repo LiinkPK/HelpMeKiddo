@@ -13,12 +13,19 @@ Para cualquiera que quiera preparar un Android TV Box para un familiar o amigo s
 ## Requisitos
  
 - Cualquier dispositivo Android TV, Google TV, Fire TV o televisor con Android 9 o superior integrado.
-- Aplicación [Downloader](https://play.google.com/store/apps/details?id=com.esaban.downloader) instalada desde Play Store (necesaria para la primera instalación).
+- Aplicación Downloader instalada desde Play Store (necesaria para otorgarle permisos de instalación a 'Help Me, Kiddo!').
+
 ## Instalación
  
-1. Instala Downloader desde Play Store en el televisor.
-2. Abre Downloader e introduce la URL de la última versión disponible en [Releases](../../releases).
+1. Instala [Downloader](https://play.google.com/store/apps/details?id=com.esaban.downloader) desde Play Store en tu TV.
+2. Abre **Downloader** e introduce la URL de la última versión disponible en [Releases](../../releases).
+   
+   > `https://github.com/LiinkPK/Help-me-kiddo/releases`
 3. Instala y abre la aplicación.
+
+**Permisos:**
+
+Si tu Android TV tiene `root`, puedes instalar `helpmekiddo.apk` sin usar **Downloader**, pero tendrás que otorgarle permisos de `superusuario` al iniciar. Si no tienes `root` o no sabes lo que es, instala esta aplicación siguiendo los pasos especificados.
 
 # DISCLAIMER #
 
