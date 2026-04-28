@@ -20,7 +20,7 @@ Para cualquiera que quiera preparar un Android TV Box para un familiar o amigo s
 1. Instala [Downloader](https://play.google.com/store/apps/details?id=com.esaban.downloader) desde Play Store en tu TV.
 2. Abre **Downloader** e introduce la URL de la última versión disponible en [Releases](../../releases).
    
-   > `https://github.com/LiinkPK/Help-me-kiddo/releases`
+   > `https://github.com/LiinkPK/HelpMeKiddo/releases`
 3. Instala y abre la aplicación.
 
 **Permisos:**
